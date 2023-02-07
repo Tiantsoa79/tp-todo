@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todo matches snapshot 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="array"
+  >
+    <h3>
+      TODO
+    </h3>
+    <label
+      htmlFor="todoInput"
+    >
+      Todo Input:
+    </label>
+    <input
+      id="todoInput"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <button
+      onClick={[Function]}
+    >
+      Enter
+    </button>
+  </div>
+  <div
+    className="array"
+  >
+    <h3>
+      DONE
+    </h3>
+  </div>
+</div>
+`;
